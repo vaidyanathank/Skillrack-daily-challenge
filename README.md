@@ -1,2 +1,1 @@
-# Skillrack-daily-challenge
-N string values are passed as input. The program must append the N strings in the reverse order and print the single string as the output.  Input Format: The first line contains N. Next N lines contain the N string values.  Output Format: The first line contains the combined string value.  Boundary Conditions: 2 &lt;= Length of a String Value &lt;= 50  Example Input/Output 1: Input: 3 apple boy cat  Output: catboyapple
+This repository containssolutions of skillrack daily challenge programs
