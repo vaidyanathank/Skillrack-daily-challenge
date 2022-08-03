@@ -1,1 +1,1 @@
-This repository containssolutions of skillrack daily challenge programs
+This repository contains solutions of skillrack daily challenge programs
